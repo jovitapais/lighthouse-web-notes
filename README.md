@@ -1,5 +1,5 @@
 # Jovita's Notes 
-VKV# This is H1 header(largest) and should always be accompanied with a space.
+# This is H1 header(largest) and should always be accompanied with a space.
 ###### This is an H6 header (smallest)
 
 
